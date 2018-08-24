@@ -20,3 +20,4 @@ RUN conda install --quiet --yes basemap  pytables
 
 # Import matplotlib the first time to build the font cache.
 RUN python -c "import matplotlib.pyplot"
+VOLUME ["/home/jovyan"]
