@@ -79,6 +79,7 @@ dependencies:
   - m2w64-toolchain
   - xarray
   - dask
+  - pywin32
   - pip:
     - click
     - dash
@@ -98,5 +99,6 @@ dependencies:
     - tqdm
     - werkzeug
     - xgboost
+    - tpot
 prefix: /opt/conda
 
