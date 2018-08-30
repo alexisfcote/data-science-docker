@@ -13,7 +13,7 @@ RUN pip install pystan tqdm
 RUN pip install dash dash-renderer dash-html-components dash-core-components
 RUN pip install plotly
 
-RUN conda install --quiet --yes basemap  pytables
+RUN conda install --quiet --yes basemap  pytables mkl-service
 
 RUN conda install -c conda-forge python-graphviz
 
