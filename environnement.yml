@@ -97,5 +97,6 @@ dependencies:
     - theano
     - tqdm
     - werkzeug
+    - xgboost
 prefix: /opt/conda
 
