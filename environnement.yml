@@ -78,6 +78,7 @@ dependencies:
   - libpython 
   - m2w64-toolchain
   - xarray
+  - dask
   - pip:
     - click
     - dash
