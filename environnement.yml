@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.6
   - beautifulsoup4
   - bokeh
   - bzip2
@@ -70,7 +71,6 @@ dependencies:
   - fontconfig
   - graphviz
   - pycurl
-  - python
   - qt
   - sqlite
   - twisted
