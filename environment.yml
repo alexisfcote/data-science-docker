@@ -32,7 +32,6 @@ dependencies:
   - notebook
   - numba
   - numpy
-  - mkl-service
   - openssl
   - pandas
   - pandoc
