@@ -4,6 +4,9 @@ channels:
   - defaults
 dependencies:
   - python=3.6
+  - r
+  - r-lme4
+  - rpy2
   - beautifulsoup4
   - bokeh
   - bzip2
