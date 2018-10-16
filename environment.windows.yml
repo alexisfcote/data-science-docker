@@ -103,5 +103,6 @@ dependencies:
     - xgboost
     - tpot
     - cufflinks
+    - tzlocal
 prefix: /opt/conda
 
