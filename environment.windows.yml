@@ -6,6 +6,7 @@ dependencies:
   - python=3.6
   - r
   - r-lme4
+  - r-arm
   - rpy2
   - beautifulsoup4
   - bokeh
