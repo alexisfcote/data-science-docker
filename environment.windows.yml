@@ -4,10 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.6
-  - r
-  - r-lme4
-  - r-arm
-  - rpy2
   - beautifulsoup4
   - bokeh
   - bzip2
@@ -91,6 +87,7 @@ dependencies:
     - dash-renderer
     - dask
     - flask
+    - wtforms
     - itsdangerous
     - joblib
     - plotly
