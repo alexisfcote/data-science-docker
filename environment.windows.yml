@@ -79,13 +79,13 @@ dependencies:
   - xarray
   - dask
   - pywin32
+  - xlrd
   - pip:
     - click
     - dash
     - dash-core-components
     - dash-html-components
     - dash-renderer
-    - dask
     - flask
     - wtforms
     - itsdangerous
